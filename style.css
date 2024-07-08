@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+        /* Style for the left sidebar */
+.sidebar.left {
+            background-color: #c7dff7; 
+            padding: 10px; 
+            height: 100%;
+            width: 250px !important;
+        }
+
+        .sidebar.left .sidebar-nav-fixed {
+            color: #333; 
+        }
+body { background: rgb(70, 70, 70) !important; } 
+    
+html, body {
+            height: 100%;
+        }
